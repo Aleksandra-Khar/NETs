@@ -1,6 +1,6 @@
 # Описание проекта
 
-Проект создан для выделения силуэта людей на фотографиях, а также для генерации описания фотографии
+Проект создан для выделения силуэта людей на фотографиях, а также для генерации описания фотографии. Это происходит с помощью многослойных нейронных сетей, которые обучались на различных фото.
 
 # How to start up with server 
 
@@ -44,7 +44,7 @@ pip install matplotlib
 
 python server.py
 
-5. Find %dunno what is it% (for me it is 'http://127.0.0.1:5000/'). And remember last number it as %local%
+5. Find dunno what is it% (for me it is 'http://127.0.0.1:5000/'). And remember last number it as %local%
 
 6. Install, LogIn/Register in this service https://ngrok.com. Make installation in current folder 
 
